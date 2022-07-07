@@ -1,0 +1,22 @@
+{
+    "name": "shopping-app1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Ianranja/shopping-app1.git"
+    },
+    "author": "Ian ranja",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Ianranja/shopping-app/issues"
+    },
+    "homepage": "https://github.com/Ianranja/shopping-app#readme",
+    "dependencies": {
+      "@picocss/pico": "^1.5.3"
+    }
+  }
